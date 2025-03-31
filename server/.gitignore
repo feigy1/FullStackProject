@@ -1,0 +1,26 @@
+# תלויות npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# קבצי סביבה
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# קבצי לוג
+logs/
+*.log
+log/
+
+# תיקיות בנייה
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
